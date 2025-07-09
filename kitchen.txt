@@ -5,16 +5,16 @@ Floor material type = Hardwood
 
 Floor color = Oak
 
-Cabinet color = 
+Cabinet color = White
 
-Cabinet hardware = 
+Cabinet hardware = Silver bar
 
-Fridge color = 
+Fridge color = Silver
 
-Stove type = 
+Stove type = Electric
 
-Backsplash color = 
+Backsplash color = White
 
-Wall paint color = 
+Wall paint color = White
 
-Decorations = 
+Decorations = Minimal plants in simple pots
