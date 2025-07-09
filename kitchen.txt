@@ -1,0 +1,20 @@
+
+THE KITCHEN:
+
+Floor material type = 
+
+Floor color = 
+
+Cabinet color = 
+
+Cabinet hardware = 
+
+Fridge color = 
+
+Stove type = 
+
+Backsplash color = 
+
+Wall paint color = 
+
+Decorations = 
