@@ -1,9 +1,9 @@
 
 THE KITCHEN:
 
-Floor material type = 
+Floor material type = Hardwood
 
-Floor color = 
+Floor color = Oak
 
 Cabinet color = 
 
